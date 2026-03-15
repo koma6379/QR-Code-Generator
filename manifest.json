@@ -1,0 +1,22 @@
+{
+  "short_name": "QR Generator",
+  "name": "Koller's QR Generator Pro",
+  "description": "Erstelle und verwalte dynamische und statische QR-Codes.",
+  "icons": [
+    {
+      "src": "pic/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pic/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#F8F9FA",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary"
+}
